@@ -1,6 +1,9 @@
 # How install docker and docker-compose on ubuntu
 
-Please contact me with any questions.    blog: https://blog.azbit.cn     wechat: zhzosh
+## QA
+1. github: https://github.com/zzsure
+2. blog: https://blog.azbit.cn
+3. wx: zhzosh
 
 ## Prerequisites
 1. ubuntu: 18.04

@@ -1,5 +1,10 @@
 # How install nginx with docker-compose on ubuntu
 
+## QA
+1. github: https://github.com/zzsure
+2. blog: https://blog.azbit.cn
+3. wx: zhzosh
+
 ## Prerequisites
 1. ubuntu: 18.04
 2. git: 2.17.1
