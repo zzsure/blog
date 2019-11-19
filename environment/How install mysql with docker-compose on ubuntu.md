@@ -16,4 +16,4 @@
 1. git clone git@github.com:zzsure/deploy.git
 2. create .env in mysql floder, and set PORT, ROOT_PASSWORD, DATA_PATH
 3. sh start.sh;
-4. mysql -h127.0.0.1 -uroot -p${MYSQL_ROOT_PASSWORD} -P${DEV_PORT}
+4. mysql -h127.0.0.1 -uroot -p{MYSQL_ROOT_PASSWORD} -P{DEV_PORT}
